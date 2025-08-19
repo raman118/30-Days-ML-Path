@@ -1,6 +1,6 @@
 # 30-Day Machine Learning Course for Underprivileged Students
 
-_Hayward's University - Professor's Edition_
+_Raman-chaudhary_
 
 ## Course Overview
 
