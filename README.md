@@ -2,7 +2,7 @@
 
 
 
-> A comprehensive, accessible 30-day Machine Learning curriculum designed specifically for underprivileged students at Hayward's University.
+> A comprehensive, accessible 30-day Machine Learning curriculum designed specifically for underprivileged students.
 
 ## 🌟 Overview
 
